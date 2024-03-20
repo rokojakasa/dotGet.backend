@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotGet.Backend.Api", "dotGet.Backend.Api\dotGet.Backend.Api.csproj", "{2D054C85-F72C-4C2B-BF73-74B6A9A938AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D054C85-F72C-4C2B-BF73-74B6A9A938AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D054C85-F72C-4C2B-BF73-74B6A9A938AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D054C85-F72C-4C2B-BF73-74B6A9A938AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D054C85-F72C-4C2B-BF73-74B6A9A938AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D755BC72-5B02-4765-8C38-92006DD5B3FD}
+	EndGlobalSection
+EndGlobal
